@@ -1,0 +1,6 @@
+bilgisayar mühendisliği = https://www.istinye.edu.tr/apps/ders-icerikleri.php?program_kodu=0402001&dil=tr
+elektrik elektronik = https://www.istinye.edu.tr/apps/ders-icerikleri.php?program_kodu=0403001&dil=tr
+makine mühendisliği = https://www.istinye.edu.tr/apps/ders-icerikleri.php?program_kodu=0406001&dil=tr
+endüstri mühendisliği = https://www.istinye.edu.tr/apps/ders-icerikleri.php?program_kodu=0404001&dil=tr
+inşaat mühendisliği = https://www.istinye.edu.tr/apps/ders-icerikleri.php?program_kodu=0405001&dil=tr
+yazılım mühendisliği = https://www.istinye.edu.tr/apps/ders-icerikleri.php?program_kodu=0401001&dil=tr
